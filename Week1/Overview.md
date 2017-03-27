@@ -30,7 +30,7 @@
 # Wednesday
 
 - Topics
-  - Conditionals Continued
+  - Conditionals
 
 - Reference Materials
   - [Conditional Statements](https://docs.google.com/a/wecancodeit.org/presentation/d/1QeQS5ZY0srAWsvMAPqnH2vSDn1cNZu7DXrgd1nw2piE/edit?usp=sharing)
