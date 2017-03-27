@@ -10,6 +10,7 @@
 - Own up to mistakes and learn from them
 - Understand how you learn
 - Be consistent in communication (expressing availability)
+- Keep a positive attitude and be solution oriented (refocus frustration on problem solving)
 
 
 ### Team
