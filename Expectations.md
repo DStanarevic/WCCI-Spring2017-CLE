@@ -11,6 +11,7 @@
 - Understand how you learn
 - Be consistent in communication (expressing availability)
 - Keep a positive attitude and be solution oriented (refocus frustration on problem solving)
+- Have funnnnnnnn!!!!!!
 
 
 ### Team
@@ -20,6 +21,11 @@
 - Be aware of how others learn
 - Keep a positive attitude and be solution oriented (refocus frustration on problem solving)
 - Be consistent in communication (expressing availability)
+- Hold teammates accountable for not holding themselves accountable
+- Respect each other, especially for communication styles, approach others with empathy
+- Be nice; compassionate and patient
+- Be on time and present
+- Have funnnnnnnn!!!!!!
 
 
 ### Instructors
@@ -28,3 +34,11 @@
 - Keep a positive attitude and be solution oriented (refocus frustration on problem solving)
 - Understand how students learn and flex based on student needs
 - Be consistent in communication (expressing availability)
+- Hold teammates accountable for not holding themselves accountable
+- Respect each other, especially for communication styles, approach others with empathy
+- Be nice: compassionate and patient
+- Roadmapping and benchmarking for student progress
+- Be on time
+- Availability and consistent communication
+- Have funnnnnnnn!!!!!!
+
