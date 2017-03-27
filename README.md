@@ -83,8 +83,7 @@ If a student is failing a portion of the program, the student will be placed on 
 
 ## Final Projects
 
-Final projects will be worth 100 points per week worked on the project, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met.
-
+Final projects will be worth 100 points per week, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met. Students must be passing the course prior to final projects to be eligible to participate in final projects.
 
 # Course Resources
 
