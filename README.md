@@ -18,14 +18,14 @@
 - Week 2
   - Loops and Arrays
   - Intro to OOP
-  - Lists
-- Week 3
-  - Dictionaries
   - Building Classes - Methods and Properties
-  - File I/O
-- Week 4
+  - RegEx*
+  - StringBuilder*
+- Week 3
+  - Lists and Dictionaries
   - Inheritance & polymorphism
-  - Exceptions
+  - Exceptions and File I/O
+- Week 4
   - HTML
   - CSS
   - Bootstrap
@@ -42,17 +42,15 @@
   - jQuery
   - MVC Integration of Scripts
 - Week 8
-  - Deployment
   - AJAX
   - JSON and APIs
 - Week 9
   - Advanced MVC
-  - RegEx
-  - StringBuilder
 - Weeks 10-12
   - Final Project
   - Scrum
 
+#### * Denotes potential topics
 
 # Grading Policy
 
