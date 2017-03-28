@@ -15,7 +15,6 @@
 # Tuesday
 
 - Topics
-  - Introduction to git
   - Intro to C# (cont.)
   - Variables, Operators, Expressions, Basic Types
   - Conditionals
@@ -25,7 +24,7 @@
   - [Conditional Statements](https://docs.google.com/a/wecancodeit.org/presentation/d/1QeQS5ZY0srAWsvMAPqnH2vSDn1cNZu7DXrgd1nw2piE/edit?usp=sharing)
   
 - Problems/Projects
-  - Git [Try Git](https://try.github.io)
+  - Continue practice from slides
   
 # Wednesday
 
@@ -50,9 +49,11 @@
 # Friday
 
 - Topics
+  - Introduction to git
   - Strings (Essentials & Methods) 
 
 - Reference Materials
   - [Strings (Essentials & Methods) ](https://docs.google.com/a/wecancodeit.org/presentation/d/1s_6Fv0zKtNI53nvYdnBS-8ywgEkvuoWlwcR5JikHE4g/edit?usp=sharing)
 - Problems/Projects
   - Fortune Teller
+  - Git [Try Git](https://try.github.io)
