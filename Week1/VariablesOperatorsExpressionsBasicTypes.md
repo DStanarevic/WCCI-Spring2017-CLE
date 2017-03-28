@@ -8,9 +8,7 @@
 #### Data Types
 - What are data types?
   - Integer Types
-    - Focus on int
   - Floating-point Types
-    - Focus on double, float, and decimal
   - Boolean Type
   - Character Type
   - String Type
@@ -33,7 +31,7 @@
 
 ## Resources & Practice Problems
 - [In Class Slides with Problems](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
-  - GPA Calculator Extension \#1:
+  - GPA Calculator Extensions:
     - Limit the number of decimal places in the GPA to the following _ . _ _ (i.e. 3.81). *Use Google to Solve This*
     - Calculate the GPAs of 7 students and based on their GPAs, calculate the class average.
   
