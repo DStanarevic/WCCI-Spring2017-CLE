@@ -44,7 +44,7 @@
 
 ## Homework
 - Continue practicing translating the small word problems on [Slides 10 & 11](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
-- Review more information on topics here: - [Data Types and Variables](https://docs.google.com/a/wecancodeit.org/presentation/d/1fv1Sff-2CgcapULaRcBdGhMs1TTdTcX01etXm4bc_6I/edit?usp=sharing)
+- Review more information on topics here: [Data Types and Variables](https://docs.google.com/a/wecancodeit.org/presentation/d/1fv1Sff-2CgcapULaRcBdGhMs1TTdTcX01etXm4bc_6I/edit?usp=sharing)
 
 
 
