@@ -52,6 +52,13 @@
 
 #### * Denotes potential topics
 
+# Important Dates
+- No Class - Spring Break (April 17-21)
+- No Class - Memorial Day (May 29)
+- Last Day of Class (June 20)
+- Career Day & Graduation (June 23)
+
+
 # Grading Policy
 
 Class is from 9:30am-3:30pm Monday-Friday, with the exception of holidays on which we will not be having class.
