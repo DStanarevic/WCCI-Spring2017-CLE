@@ -17,7 +17,7 @@
 - Topics
   - Intro to C# (cont.)
   - Variables, Operators, Expressions, Basic Types
-  - Conditionals
+  - Conditionals (Maybe)
 
 - Reference Materials
   - [Data Types and Variables](https://docs.google.com/a/wecancodeit.org/presentation/d/1fv1Sff-2CgcapULaRcBdGhMs1TTdTcX01etXm4bc_6I/edit?usp=sharing)
@@ -25,6 +25,7 @@
   
 - Problems/Projects
   - Continue practice from slides
+  - [In Class Slides](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
   
 # Wednesday
 
