@@ -31,5 +31,9 @@
 - Students should understand when semicolons, parentheses, and curly braces are needed.
 - Students should know the naming conventions for variables.
 
-## Resources
+## Resources & Practice Problems
 - [In Class Slides with Problems](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
+  - GPA Calculator Extension \#1:
+    - Limit the number of decimal places in the GPA to the following _ . _ _ (i.e. 3.81). *Use Google to Solve This*
+    - Calculate the GPAs of 7 students and based on their GPAs, calculate the class average.
+  
