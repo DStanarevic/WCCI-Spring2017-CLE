@@ -30,3 +30,6 @@
 - Students should know which operator to use.
 - Students should understand when semicolons, parentheses, and curly braces are needed.
 - Students should know the naming conventions for variables.
+
+## Resources
+- [In Class Slides with Problems](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
