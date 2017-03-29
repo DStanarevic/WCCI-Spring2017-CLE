@@ -16,12 +16,21 @@
 
 ## Resources & Practice Problems
 - [In Class Slides & Practice Problems](https://docs.google.com/presentation/d/1uiZSzAgxRBcTNypdd00RbV513Nl_knB_ETrLPUsCLfY/edit?usp=sharing)
+- [Jeopardy Review - Variables, Operators, Data Types](https://flipquiz.me/review/157507)
 - [DotNetPerls If-Statements](https://www.dotnetperls.com/if)
 - [DotNetPerls Switch-Statements](https://www.dotnetperls.com/switch)
 - [Conditionals Slides](https://docs.google.com/presentation/d/1QeQS5ZY0srAWsvMAPqnH2vSDn1cNZu7DXrgd1nw2piE/edit?usp=sharing)
 - C# Player's Guide
   - Chapter 10 - Decision Making
   - Chapter 11 - Switch Statements
+- Mini FizzBuzz Problem (Final Jeopardy Problem)
+  - Ask the user for 2 numbers. One number will be the FIZZ number and one number will be the BUZZ number. 
+  - When you run the program, a user should be able to enter a test number.
+  - If the test number is a multiple of the FIZZ number, print "Fizz!".
+  - If the test number is a multiple of the BUZZ number, print "Buzz!".
+  - If the test number is a multiple of the FIZZ and BUZZ numbers, print "FizzBuzz!".
+  - If the test number is NOT a multiple of the FIZZ or BUZZ numbers, print the test number.
+  
 
 ## Homework
 - Complete the [Conditionals Practice Problems](https://docs.google.com/document/d/1hpsE4Xfr6k8I2JTbUcD4pueXEAaRjWFd_JDOJqe2UMw/edit?usp=sharing)
