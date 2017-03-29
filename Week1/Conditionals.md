@@ -15,6 +15,7 @@
 - What is the syntax of switch case?
 
 ## Resources & Practice Problems
+- [In Class Slides & Practice Problems](https://docs.google.com/presentation/d/1uiZSzAgxRBcTNypdd00RbV513Nl_knB_ETrLPUsCLfY/edit?usp=sharing)
 - [DotNetPerls If-Statements](https://www.dotnetperls.com/if)
 - [DotNetPerls Switch-Statements](https://www.dotnetperls.com/switch)
 - [Conditionals Slides](https://docs.google.com/presentation/d/1QeQS5ZY0srAWsvMAPqnH2vSDn1cNZu7DXrgd1nw2piE/edit?usp=sharing)
