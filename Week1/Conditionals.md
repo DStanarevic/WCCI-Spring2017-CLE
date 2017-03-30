@@ -2,6 +2,7 @@
 - Students should know the syntax for if statements, if-else statements, and switch case
 - Students should know when to use if-else versus switch case
 - Students should be able to identify when a control flow structure is needed to solve a problem
+- Students should know when to use an if/else or switch case
 
 ## Topics
 #### If Else
