@@ -44,7 +44,7 @@
   
 - Escaping Special Characters
   - Using the escape sequences for tab, backspace, new line, and bell sound, print this result using only ONE `Console.WriteLine(...)`.
-  ![Escaping Chars](Images/CharacterEscaping.png)
+  ![Escaping Characters](Images/CharacterEscaping.png)
 
 - Comparing Strings for Equality
   *First try the following using `==` and then try it using `.Equals()`
