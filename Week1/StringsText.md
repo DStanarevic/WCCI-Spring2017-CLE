@@ -44,8 +44,7 @@
   
 - Escaping Special Characters
   - Using the escape sequences for tab, backspace, new line, and bell sound, print this result using only ONE `Console.WriteLine(...)`.
-  ![Escaping Characters](Images/Week1/CharacterEscaping.png)
-  ![Character Escaping](WCCI-Spring2017-CLE/Images/CharacterEscaping.png)
+  *See result [here](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/blob/master/Images/CharacterEscaping.png)*
 
 - Comparing Strings for Equality
   *First try the following using `==` and then try it using `.Equals()`
