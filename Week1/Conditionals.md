@@ -7,7 +7,7 @@
 ## Topics
 #### If Else
 - What are conditionals and why are they important in programming?
-- What is the difference between an if statement and an if-else statement?
+- What is the difference between an if statement, an if-else statement, and an if-else-if-else statement?
 - When should an if/if-else conditional statement be used?
 - What is the syntax for an if/if-else statement?
 
