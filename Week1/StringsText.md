@@ -33,7 +33,9 @@
   - Replace()
 
 ## Resources & Practice Problems
-- [Strings & Text Slides](https://docs.google.com/presentation/d/1s_6Fv0zKtNI53nvYdnBS-8ywgEkvuoWlwcR5JikHE4g/edit?usp=sharing)  
+- [Strings & Text Slides](https://docs.google.com/presentation/d/1s_6Fv0zKtNI53nvYdnBS-8ywgEkvuoWlwcR5JikHE4g/edit?usp=sharing)
+- [Strings Resource](http://www.completecsharptutorial.com/csharp-articles/csharp-string-function/)
+
 - .Length Property
   - Find the length of your first name and print it.
   - Find the length of your last name and print it.
