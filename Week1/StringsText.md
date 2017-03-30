@@ -53,8 +53,9 @@
   - If the two names are the same, print "The names are the same."
   - If they're not the same, print "The names are different."
 
-- Concatenation
-  *First try the following using `+` and then try it using `.Equals()`* 
+- Concatenation 
+  *First try the following using `+` and then try it using `.Equals()`
+
   - Ask the user for his/her first name.
   - Ask the user for his/her last name.
   - Using concatenation, print the user's full name including a space to separate the names.
