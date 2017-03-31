@@ -11,6 +11,7 @@
 - Understand how you learn
 - Be consistent in communication (expressing availability)
 - Keep a positive attitude and be solution oriented (refocus frustration on problem solving)
+- Reduce chatter, focus attention
 - Have funnnnnnnn!!!!!!
 
 
@@ -25,6 +26,7 @@
 - Respect each other, especially for communication styles, approach others with empathy
 - Be nice; compassionate and patient
 - Be on time and present
+- Accountability on regarding chatter reduction
 - Have funnnnnnnn!!!!!!
 
 
@@ -40,5 +42,6 @@
 - Roadmapping and benchmarking for student progress
 - Be on time
 - Availability and consistent communication
+- Help direct focus and reduce chatter/distractions
 - Have funnnnnnnn!!!!!!
 
