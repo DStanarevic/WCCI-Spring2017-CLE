@@ -45,7 +45,7 @@
   - EXTENSION: Get user input for the first and last name instead of hardcoding, such as `string fName = "Mary";`
   
 - Escaping Special Characters
-  - Using the escape sequences for tab, backspace, new line, and bell sound, print this result using only ONE `Console.WriteLine(...)`.
+  - Using the escape sequences for tab, backslash, new line, and bell sound, print this result using only ONE `Console.WriteLine(...)`.
   *See result [here](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/blob/master/Images/CharacterEscaping.png)*
 
 - Comparing Strings for Equality
