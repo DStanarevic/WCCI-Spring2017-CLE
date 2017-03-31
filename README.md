@@ -16,7 +16,8 @@
   - Conditionals
   - Strings and Text Processing
 - Week 2
-  - Loops and Arrays
+  - Arrays
+  - Loops
   - Intro to OOP
   - Building Classes - Methods and Properties
   - RegEx*
