@@ -1,6 +1,6 @@
 # Fortune Teller
 ## Due: Monday, April 3, 2017 by 10:30 AM
-### - [GitHub Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
+### [GitHub Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview
 Develop a console application that will tell the user’s fortune based on data received from the user.
