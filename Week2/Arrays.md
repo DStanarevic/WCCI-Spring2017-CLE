@@ -7,8 +7,12 @@
 - Properties and methods of an array
 
 ### Do It
- - Create an empty array using the example from instruction.
- - Create an array with hard-coded/pre-set elements.
+  - Top 10 vacation spots
+    - Print the first and last vacation spots
+  - Ages of 3 children you know
+    - Print each child's age
+  - GPAs on a 4.0 scale of 8 students
+  - First letter of 4 of your peers' names who are sitting near you
 
 ## Student Resources & Practice Problems
 - [WCCI Array Slides](https://docs.google.com/presentation/d/1tAiudPEjh_RsJhFVCBY4ykgdp-FgudYbYg_YSKG-Lmo/edit?usp=sharing)
