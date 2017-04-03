@@ -7,6 +7,11 @@
 - Properties and methods of an array
 
 ### Do It
+`dataType[] nameOfArray = { elements };`
+
+`int[] myArray = { 1, 2, 3, 4, 5, 6 };`
+
+
   - Top 10 vacation spots
     - Print the first and last vacation spots
   - Ages of 3 children you know
