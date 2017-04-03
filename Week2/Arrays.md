@@ -6,6 +6,10 @@
 - How to declare and initialize an array
 - Properties and methods of an array
 
+### Do It
+ - Create an empty array using the example from instruction.
+ - Create an array with hard-coded/pre-set elements.
+
 ## Student Resources & Practice Problems
 - [WCCI Array Slides](https://docs.google.com/presentation/d/1tAiudPEjh_RsJhFVCBY4ykgdp-FgudYbYg_YSKG-Lmo/edit?usp=sharing)
 - [DotNetPerls Arrays](https://www.dotnetperls.com/array)
