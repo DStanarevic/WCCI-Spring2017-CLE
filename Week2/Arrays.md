@@ -24,6 +24,10 @@
 `nameOfArray[index]  = Element`
  - Declare and initialize a string array with the 7 days of the week as its elements.
  - Declare and initialize an array of 5 student ages using the “new” keyword.
+### Do It
+- Declare and initialize an array of characters spelling out your last name. Print the length of the array.
+- Declare and initialize a string array. Using the Length property, print the second to last element in the array.
+ 
   
   
 
