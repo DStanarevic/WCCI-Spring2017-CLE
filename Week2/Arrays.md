@@ -18,4 +18,4 @@
 
 ## Homework
  - C# Player's Guide 
-    - Chapter 13
+    - Chapter 13 - Arrays
