@@ -13,6 +13,11 @@
     - Print each child's age
   - GPAs on a 4.0 scale of 8 students
   - First letter of 4 of your peers' names who are sitting near you
+### Do It
+ - Declare and initialize a string array with the 7 days of the week as its elements.
+ - Declare and initialize an array of 5 student ages using the “new” keyword.
+  
+  
 
 ## Student Resources & Practice Problems
 - [WCCI Array Slides](https://docs.google.com/presentation/d/1tAiudPEjh_RsJhFVCBY4ykgdp-FgudYbYg_YSKG-Lmo/edit?usp=sharing)
