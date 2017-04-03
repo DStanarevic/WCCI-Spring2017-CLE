@@ -15,3 +15,7 @@
 - [MSDN Arrays](https://msdn.microsoft.com/en-us/library/9b9dty7d.aspx)
 - [C# Array Practice Problems](http://www.w3resource.com/csharp-exercises/array/index.php)
 - [Optional: WCCI Video on How to Solve CodeEval Challenge](https://www.youtube.com/watch?v=_ONDlicfP7o&t=22s)
+
+## Homework
+ - C# Player's Guide 
+    - Chapter 13
