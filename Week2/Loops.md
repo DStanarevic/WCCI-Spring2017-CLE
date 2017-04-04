@@ -1,9 +1,39 @@
 ## Topics
 #### Loops
- - What is a Loop?
- - When would you use Loop?
- - Why would you use Loop?
-
+ - What is a loop?
+ - When would you use a loop?
+ - Why would you use a loop?
+ - Nested Loops
+ - Infinite Loops
+ - Keywords: `break` & `continue`
+ #### For Loop
+ - When to use a for loop
+   - Counting
+   - Iterating through a collection
+ - Syntax
+ - Parts of a for loop
+   - keyword: `for`
+   - initializer
+   - condition
+   - updater
+#### Foreach Loop
+ - When to use a foreach loop
+   - Iterating through a collection
+ - Syntax
+ - Parts of a foreach loop
+   - Keywords: `in`, `foreach`
+#### Do While Loop
+ - When to use a do while loop
+   - Want a chunk of code to run once regardless, but then run multiple times after if a condition is met
+ - Syntax
+ - Parts of a do while
+   - keywords: `do`, `while`
+#### While Loop
+ - When to use a while loop
+   - Want a chunk of code to run only if a condition is met first
+ - Syntax
+ - Parts of a while loop
+   - keyword: `while`
 ## Goals
 - Examine loop programming constructs.
 - Implement conditional repetitions (while and do-while loops).
