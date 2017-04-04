@@ -42,6 +42,8 @@
  - Syntax
  - Parts of a while loop
    - keyword: `while`
+   
+## Practice
 ### Do It
 - Create an array called days with the elements Monday, Tuesday, and Wednesday. Using a For Loop, print the elements of the days array.
 - Start with the string "Once upon a time" and create an array called storyWords using the Split method. Reverse the order of the elements in the array and using a For Loop, print each word.
