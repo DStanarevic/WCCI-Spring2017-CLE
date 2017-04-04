@@ -1,4 +1,12 @@
 ## Topics
+## Goals
+- Examine loop programming constructs.
+- Implement conditional repetitions (while and do-while loops).
+- Work with for-loops. 
+- Explore different loop definitions and constructions.
+- Understand some key usages of loops.
+- Learn about foreach-loops.
+- Understand how to use multiple loops placed inside each other (nested loops).
 #### Loops
  - What is a loop?
  - When would you use a loop?
@@ -34,14 +42,9 @@
  - Syntax
  - Parts of a while loop
    - keyword: `while`
-## Goals
-- Examine loop programming constructs.
-- Implement conditional repetitions (while and do-while loops).
-- Work with for-loops. 
-- Explore different loop definitions and constructions.
-- Understand some key usages of loops.
-- Learn about foreach-loops.
-- Understand how to use multiple loops placed inside each other (nested loops).
+### Do It
+- Create an array called days with the elements Monday, Tuesday, and Wednesday. Using a For Loop, print the elements of the days array.
+- Start with the string "Once upon a time" and create an array called storyWords using the Split method. Reverse the order of the elements in the array and using a For Loop, print each word.
 
 ## Student Resources & Practice Problems
 - [WCCI Loops Slides](https://docs.google.com/presentation/d/1PAezSNr2UKAvdcfRRrTvM4aOICA-i8xxzAREAppCrQ8/edit?usp=sharing)
