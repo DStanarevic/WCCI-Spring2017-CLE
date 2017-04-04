@@ -27,7 +27,13 @@
 ### Do It
 - Declare and initialize an array of characters spelling out your last name. Print the length of the array.
 - Declare and initialize a string array. Using the Length property, print the second to last element in the array.
- 
+
+### Do It
+ - Declare and initialize a string array of first names. Choose a name to find and print the IndexOf.
+ - Create an array of lucky numbers. Each number should repeat at least once. Choose a lucky number, find and print the last index of it.
+ - Create an array of alphabet characters. Print the first index of the array. Now reverse the array and print the first index.
+ - Create an array of student names in random order. Order the students’ names using the sort method. Print the first and last students’ names.
+ - Ask 10 people for their favorite numbers and create an array of those numbers. Order the numbers using the sort method. Print the first and last numbers.
   
   
 
