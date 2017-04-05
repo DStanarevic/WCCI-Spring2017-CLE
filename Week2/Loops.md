@@ -47,6 +47,18 @@
 ### Do It
 - Create an array called days with the elements Monday, Tuesday, and Wednesday. Using a For Loop, print the elements of the days array.
 - Start with the string "Once upon a time" and create an array called storyWords using the Split method. Reverse the order of the elements in the array and using a For Loop, print each word.
+### Do It
+- Write a program that takes your favorite foods and prints them out one at a time. (Use a foreach loop.)
+- Create an array of lucky numbers. Using a foreach loop, print the following:
+  - If the array holds the numbers 3, 5, 7, 11, 15, then the printed result should say
+```
+  Your Lucky Number is: 3
+  Your Lucky Number is: 5
+  Your Lucky Number is: 7
+  Your Lucky Number is: 11
+  Your Lucky Number is: 15
+```
+
 
 ## Student Resources & Practice Problems
 - [WCCI Loops Slides](https://docs.google.com/presentation/d/1PAezSNr2UKAvdcfRRrTvM4aOICA-i8xxzAREAppCrQ8/edit?usp=sharing)
