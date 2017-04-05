@@ -68,6 +68,12 @@
 - Ask the user for the client's appointment time (i.e. 2:00 PM)
 - Ask the user if he/she/they would like to check the patient in for his/her/their appointment
 
+### Do It
+- Ask the user for the class they would like to add to their GPA calculation
+- Ask the user for the letter grade for the class (no + or - grades)
+- Ask the user if they have another class they would like to add to their GPA calculation
+- Using a Do While Loop, repeat the code if the user says "YES"
+
 ## Student Resources & Practice Problems
 - [WCCI Loops Slides](https://docs.google.com/presentation/d/1PAezSNr2UKAvdcfRRrTvM4aOICA-i8xxzAREAppCrQ8/edit?usp=sharing)
 - [DotNetPerls C# While Loops](https://www.dotnetperls.com/while)
