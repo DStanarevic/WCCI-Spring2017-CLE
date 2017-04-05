@@ -49,7 +49,7 @@
 - Start with the string "Once upon a time" and create an array called storyWords using the Split method. Reverse the order of the elements in the array and using a For Loop, print each word.
 ### Do It
 - Write a program that takes your favorite foods and prints them out one at a time. (Use a foreach loop.)
-- Create an array of lucky numbers. Using a foreach loop, print the following:
+- Create an array of lucky numbers(Just any numbers you like). Using a foreach loop, print the following:
   - If the array holds the numbers 3, 5, 7, 11, 15, then the printed result should say
 ```
   Your Lucky Number is: 3
