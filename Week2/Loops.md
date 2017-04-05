@@ -74,6 +74,11 @@
 - Ask the user if they have another class they would like to add to their GPA calculation
 - Using a Do While Loop, repeat the code if the user says "YES"
 
+### Do It
+ - Write a program that prints a multiplication table (5 x 5, for example) using a nested loops.
+ - Create an array of your favorite movies. Print out each movie in the list, unless the move starts with a vowel. Hint : Research .startsWith()
+ - Write a console application that asks the user for an integer. If that integer is evenly divisible by 3, then write “You Won!” If it isn’t, write “You Lost.” Keep asking them for a number (looping) until they win.
+
 ## Student Resources & Practice Problems
 - [WCCI Loops Slides](https://docs.google.com/presentation/d/1PAezSNr2UKAvdcfRRrTvM4aOICA-i8xxzAREAppCrQ8/edit?usp=sharing)
 - [DotNetPerls C# While Loops](https://www.dotnetperls.com/while)
