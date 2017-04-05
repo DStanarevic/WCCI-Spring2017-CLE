@@ -60,6 +60,7 @@
 ```
 
 ### Do It
+- Ask the user if he/she/they would like to check the patient in for his/her/their appointment
 - Using a While Loop, run the following sequence only if the user's answer is not YES
 - Print "PATIENT CHECK IN SYSTEM"
 - Ask the user for the client's full name
