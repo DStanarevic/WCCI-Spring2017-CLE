@@ -59,6 +59,13 @@
   Your Lucky Number is: 15
 ```
 
+### Do It
+- Using a While Loop, run the following sequence only if the user's answer is not YES
+- Print "PATIENT CHECK IN SYSTEM"
+- Ask the user for the client's full name
+- Ask the user for the client's 6-digit patient ID
+- Ask the user for the client's appointment time (i.e. 2:00 PM)
+- Ask the user if he/she/they would like to check the patient in for his/her/their appointment
 
 ## Student Resources & Practice Problems
 - [WCCI Loops Slides](https://docs.google.com/presentation/d/1PAezSNr2UKAvdcfRRrTvM4aOICA-i8xxzAREAppCrQ8/edit?usp=sharing)
