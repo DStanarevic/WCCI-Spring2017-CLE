@@ -8,6 +8,12 @@
 - Understand method construction.
 
 ### Methods
+ - What is a method?
+ - Why would you use a method?
+ - When would you use a method?
+ - `void` Methods
+ - Return types
+ - Method Syntax - use parentheses
 
 - Reference Materials
   - [Methods](https://docs.google.com/a/wecancodeit.org/presentation/d/1w7U0GGW6oVNJpgPFKjb-iny2EwcrQypZlIvNHsHQKF4/edit?usp=sharing)
