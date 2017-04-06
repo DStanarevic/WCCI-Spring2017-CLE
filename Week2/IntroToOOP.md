@@ -1,4 +1,8 @@
 ## Topics
+ - What is Object Oriented Programming?
+ - Why would you use Object Oriented Programming?
+ - What are best practices in Object Oriented Programming?
+ - When would you not use OOP?
 
 ## Goals
  - Understand the basics of Object-Oriented Programming
