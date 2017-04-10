@@ -42,8 +42,8 @@
   - JavaScript
   - jQuery
 - Week 8
-  - AJAX
-  - JSON and APIs
+  - AJAX, JSON and APIs
+  - Pair Programming
 - Week 9
   - Flex Week
 - Weeks 10-12
