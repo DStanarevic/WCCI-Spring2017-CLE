@@ -18,7 +18,6 @@
 ### Introduction to Object Oriented Programming
   - Reference Materials
     - [Intro to Object Oriented Programming](https://docs.google.com/presentation/d/1GWfWK3dwL8jkJgzq9QsUA98hciElgRdCNJ68B_csOLw/edit?usp=sharing)
-    - [Defining Classes](https://docs.google.com/a/wecancodeit.org/presentation/d/13U5ynGZEs_FTLHhU9K4KorEth9OReo5L5sRlRDWXitU/edit?usp=sharing)
 
 ### Do It
  - Create a class Dog
