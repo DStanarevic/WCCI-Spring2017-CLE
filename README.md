@@ -25,28 +25,27 @@
 - Week 3
   - Lists and Dictionaries
   - Inheritance & polymorphism
-  - Exceptions and File I/O
+  - Exceptions*
 - Week 4
   - HTML
   - CSS
   - Bootstrap
 - Week 5
   - MVC
-  - Razor
+  - Razor*
   - Code First Model Design
 - Week 6
   - Database First Model Design
   - SQL
-  - LINQ and Lambda Expressions
+  - LINQ and Lambda Expressions*
 - Week 7
   - JavaScript
   - jQuery
-  - MVC Integration of Scripts
 - Week 8
   - AJAX
   - JSON and APIs
 - Week 9
-  - Advanced MVC
+  - Flex Week
 - Weeks 10-12
   - Final Project
   - Scrum
