@@ -39,8 +39,6 @@
 - Come up with an example for how to use each of the methods/properties listed in the Common Properties & Methods section.
 
 ## Student Resources & Practice Problems
-[Reference Slides](https://docs.google.com/presentation/d/1QxqlIIKN7rv_-Bud3t_PPU9RjrPIGCAR9gndzBX-3gg/edit?usp=sharing)
+- [Reference Slides](https://docs.google.com/presentation/d/1QxqlIIKN7rv_-Bud3t_PPU9RjrPIGCAR9gndzBX-3gg/edit?usp=sharing)
+- [Syntax Slides](https://docs.google.com/presentation/d/1V-ubPNLHHRuD2_oFo8PaowOR1uWCSZrVvs7jh4Nwclg/edit?usp=sharing)
 
-## Review It
-
-## Apply It
