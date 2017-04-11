@@ -18,6 +18,7 @@
 ## Goals
 
 ## Do It
+For all the following examples print 2 items from the dictionary
 - Create a dictionary for a theater coat check with 10 elements. The key will be a number and the Value will be the coat style. 
 
 ## Student Resources & Practice Problems
