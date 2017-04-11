@@ -20,7 +20,4 @@
 ## Do It
 
 ## Student Resources & Practice Problems
-
-## Review It
-
-## Apply It
+- [Syntax Slides](https://docs.google.com/presentation/d/1V-ubPNLHHRuD2_oFo8PaowOR1uWCSZrVvs7jh4Nwclg/edit?usp=sharing)
