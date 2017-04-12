@@ -20,6 +20,9 @@
 - Students should understand when to use polymorphism
 - Students should understand the syntax and keywords related to inheritance and polymorphism
 
+## Do It
+- [In Class Slides](https://docs.google.com/presentation/d/17WM4gT6L5uKMIbb3vCOULNriJxLvPVUruUKOxVZU9Ew/edit?usp=sharing)
+
 ## Student Resources & Practice Problems
 - C# Player's Guide: Chapter 21 Inheritance
 - C# Player's Guide: Chapter 22 Polymorphism Virtual Methods, Abstract Classes
