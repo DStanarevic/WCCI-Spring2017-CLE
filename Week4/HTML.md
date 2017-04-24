@@ -30,4 +30,6 @@
 
 ## Student Resources & Practice Problems
 - [HTML Tutorial](https://tutorialehtml.com/en/html-tutorial-complete-html-guide/)
-- [Tutorials Point](https://www.tutorialspoint.com/html/html_pdf_version.htm)
+- [Tutorials Point](https://www.tutorialspoint.com/html/html_pdf_version.htm) 
+- [Codecademy HTML and CSS Tutorial](https://www.codecademy.com/learn/web) 
+  - For now, just focus on the first three lessons on HTML.
