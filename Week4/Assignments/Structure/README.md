@@ -18,7 +18,6 @@ Write the HTML for some websites, focusing on picking appropriate elements to em
 
 ### Stretch Tasks
 
-- [ ] News Site (`news.html`)
 - [ ] Shopping Site (`shopping.html`)
 
 ## Details
@@ -67,10 +66,6 @@ Here are some suggestions for tags to use. You aren't limited to these, but you 
 ### Stretch Tasks
 
 Work on these additional layouts. These aren't necessarily more complex layouts - remember to focus on the information that needs to be conveyed, and trust that positioning/sizing can largely be handled with CSS!
-
-#### News Site
-
-![News Site](newssite.png)
 
 #### Shopping Site
 
