@@ -28,6 +28,9 @@
 ## In Class Exercise
 - [W3Schools](https://www.w3schools.com/html/default.asp) - Do all tutorials up to and including COMMENTS
 
+## In Class Project / Homework
+ - [Structure](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/tree/master/Week4/Assignments/Structure)
+
 ## Student Resources & Practice Problems
 - [HTML Tutorial](https://tutorialehtml.com/en/html-tutorial-complete-html-guide/)
 - [Tutorials Point](https://www.tutorialspoint.com/html/html_pdf_version.htm) 
