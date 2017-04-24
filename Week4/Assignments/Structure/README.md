@@ -8,10 +8,6 @@ Write the HTML for some websites, focusing on picking appropriate elements to em
 
 ### Required Tasks
 
-- [ ] Project Set-up
-  - [ ] Create a Visual Studio **Web Site** project called `structure`
-  - [ ] Create a repository called `structure`
-  - [ ] Make frequent commits with descriptive messages
 - [ ] Barebones HTML
   - [ ] Blog Site (`blog.html`)
   - [ ] Tutorial Site (`tutorial.html`)
