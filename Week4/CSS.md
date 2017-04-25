@@ -28,6 +28,4 @@
   - [Multiple CSS Class / ID and Class Selectors](https://css-tricks.com/multiple-class-id-selectors/)
   - [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
   - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/pseudo-elements)
-  
 
-  - 
