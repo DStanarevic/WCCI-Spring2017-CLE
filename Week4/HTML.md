@@ -36,3 +36,4 @@
 - [Tutorials Point](https://www.tutorialspoint.com/html/html_pdf_version.htm) 
 - [Codecademy HTML and CSS Tutorial](https://www.codecademy.com/learn/web) 
   - For now, just focus on the first three lessons on HTML.
+- [W3Schools HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
