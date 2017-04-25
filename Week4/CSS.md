@@ -20,11 +20,10 @@
  - [Never Go Out](#)
  
 ## Student Resources & Practice Problems
+  - [W3Schools HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
   - [div](http://www.w3schools.com/tags/tag_div.asp)
   - [span](http://www.w3schools.com/tags/tag_span.asp)
   - [Block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
-    
-  ---
   - [The CSS Box Model](http://www.w3schools.com/css/css_boxmodel.asp)
   - [Multiple CSS Class / ID and Class Selectors](https://css-tricks.com/multiple-class-id-selectors/)
   - [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
