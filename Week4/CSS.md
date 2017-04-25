@@ -17,7 +17,7 @@
   - [Intro to CSS](https://docs.google.com/presentation/d/1y1mQfYIBUxZs_G2bxknEPqfG95GtIH9aa94wickWSeA/edit?usp=sharing)
   
 ## In Class Exercise
- - [Never Go Out](#)
+ - [Never Go Out](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/tree/master/Week4/Assignments/NeverGoOut)
  
 ## Student Resources & Practice Problems
   - [div](http://www.w3schools.com/tags/tag_div.asp)
