@@ -1,6 +1,17 @@
 # Topics
 
 ## CSS
+- What role does CSS play?
+- Syntax
+- Styling Text (i.e. font-family, font-size, color, text-align, etc.)
+- Relative vs. Absolute Sizing (px vs. %)
+- What is responsive design?
+- CSS Box Model
+- Positioning
+- Google Fonts
+- Classes & IDs 
+- Inline Styling vs. <style>...</style> (internal) vs. external stylesheet
+- Pseudo-classes
 
 ## In Class Slideshow
   - [Intro to CSS](https://docs.google.com/presentation/d/1y1mQfYIBUxZs_G2bxknEPqfG95GtIH9aa94wickWSeA/edit?usp=sharing)
