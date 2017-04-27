@@ -8,7 +8,7 @@
   - [Responsive Web Design and Bootstrap](https://docs.google.com/a/wecancodeit.org/presentation/d/1BAHrkWWnF0gcGRMoii8iYbwQVK4OjS3yC1B8M_zVwaY/edit?usp=sharing)
   
 ## In Class Exercise
- - [Life Is Strange](#)
+ - [Life Is Strange](https://docs.google.com/presentation/d/1F1aHwgVWd4eZ3j3HuSqlntrzcVEFIKuLS97jFum6HuY/edit#slide=id.g1234cc2daa_0_0)
  
 ## Student Resources & Practice Problems
   - [Bootstrap Homepage](http://www.getbootstrap.com)
