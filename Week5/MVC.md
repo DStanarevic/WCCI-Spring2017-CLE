@@ -33,6 +33,11 @@
 - In-Class Acting out MVC (great work Jazmyne, Lily, Noah and Stefanie!)
 - [Suggestion Box In Class MVC Walk-through](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit#slide=id.g1101e320aa_0_50)
 
+## Homework
+ - [Intro to MVC slides](https://docs.google.com/presentation/d/1auRjNmq9hj55lcbaLr60XE6ZQWifo5Bzqxw3W-svf78/edit#slide=id.ge5f2dd5dc_0_328)
+ - [ASP.NET MVC Overview](https://msdn.microsoft.com/en-us/library/dd381412(v=vs.108).aspx)
+ 
+
 ## Student Resources & Practice Problems
 - [Creating an ASP.NET MVC Web Application](https://docs.google.com/presentation/d/1yqn9NZOcxetfKugCa_jkCg2vbTnDQMY14IVDMBR9mqA/edit?usp=sharing)
 - [TutorialsPoint](https://www.tutorialspoint.com/asp.net_mvc/index.htm)
