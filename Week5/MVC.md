@@ -31,7 +31,7 @@
 
 ## Do It
 - In-Class Acting out MVC (great work Jazmyne, Lily, Noah and Stefanie!)
-- 
+- [Suggestion Box In Class MVC Walk-through](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit#slide=id.g1101e320aa_0_50)
 
 ## Student Resources & Practice Problems
 - [Creating an ASP.NET MVC Web Application](https://docs.google.com/presentation/d/1yqn9NZOcxetfKugCa_jkCg2vbTnDQMY14IVDMBR9mqA/edit?usp=sharing)
