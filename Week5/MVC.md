@@ -30,6 +30,7 @@
 - The *Controller* is the glue that holds the two together. When you want to create or delete an email in your email client, you're sending a message to the controller. It is responsible for updating the model (creating or deleting the email), then refreshing the view (showing you what you see on the screen).
 
 ## Do It
+- In-Class Acting out MVC (great work Jazmyne, Lily, Noah and Stefanie!)
 - 
 
 ## Student Resources & Practice Problems
