@@ -32,6 +32,7 @@
 ## Do It
 - In-Class Acting out MVC (great work Jazmyne, Lily, Noah and Stefanie!)
 - [Suggestion Box In Class MVC Walk-through](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit#slide=id.g1101e320aa_0_50)
+- [In Class Bookshelf MVC Project](https://docs.google.com/a/wecancodeit.org/presentation/d/1C9v9Upx7NWePFbh5kO06GSQnuxdyeJwFVAWsTKHzgdw/edit?usp=sharing)
 
 ## Homework
  - [Intro to MVC slides](https://docs.google.com/presentation/d/1auRjNmq9hj55lcbaLr60XE6ZQWifo5Bzqxw3W-svf78/edit#slide=id.ge5f2dd5dc_0_328)
