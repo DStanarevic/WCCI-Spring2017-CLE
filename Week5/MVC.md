@@ -44,3 +44,4 @@
 - [TutorialsPoint](https://www.tutorialspoint.com/asp.net_mvc/index.htm)
 - [W3Schools - MVC](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/aspnet/mvc_intro.asp.html)
 - [W3Schools - Razor](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/aspnet/razor_intro.asp.html)
+- [MVC Migrations](https://docs.google.com/presentation/d/14Mf60EoUVF5ple2oUwMZKpspd2Bk8QFbJXazMCHWQcg/edit#slide=id.g110b40dd2e_0_118)
