@@ -14,4 +14,4 @@
 
 ## Student Resources & Practice Problems
   - [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
-  - More to come
+  - [Step-by-Step Written Tutorial on Database-First MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/creating-the-web-application)
