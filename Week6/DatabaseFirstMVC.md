@@ -10,6 +10,7 @@
 
 ## In Class
  - [Database-First MVC Tutorial](https://youtu.be/BeZdeWmW-4Q)
+ - [FortuneTellerMVC](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/tree/master/Week6/Assignments/FortuneTellerMVC)
     
 
 ## Student Resources & Practice Problems
