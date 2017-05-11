@@ -73,6 +73,8 @@ Don't sweat the details about dynamics just yet - we'll discuss them more. Basic
 
 The `@` character puts your `cshtml` file into "Razor mode", where it evaluates C# as it loads the view. The code above just pulls the property out of the `ViewBag` called `RetirementAge` and sticks it in the HTML. Having it in the `<span>` is semi-optional, but makes it clearer to Razor where the C# portion ends.
 
+Here is the Week 1 [Fortune Teller](https://github.com/WeCanCodeIT/WCCI-Spring2017-CLE/blob/master/Week1/Assignments/FortuneTeller.md) for your reference!!
+
 
 ### Stretch Tasks
 
