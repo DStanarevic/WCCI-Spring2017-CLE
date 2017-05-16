@@ -17,6 +17,7 @@
   - [JavaScript Functions and Anonymous Functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
   - [Additional Optional JavaScript Tutorial](https://javascript.info/first-steps)
   - [Getting Started with JavaScript with a C# Background](https://mauricebutler.wordpress.com/2011/11/07/getting-started-with-javascript-with-a-c-background/)
+  - [The DOM in JavaScript](https://www.w3schools.com/js/js_htmldom.asp)
 
 ## Homework
  - 
