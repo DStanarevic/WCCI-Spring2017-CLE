@@ -12,7 +12,9 @@
  - [jQuery Tutorial](http://try.jquery.com/levels/1/challenges/1)
 
 ## Student Resources & Practice Problems
-  - More to come ...
+  - [Optional Additional W3Schools Tutorial](https://www.w3schools.com/jquery/)
+  - [jQuery Cheat Sheet](https://makeawebsitehub.com/jquery-mega-cheat-sheet/)
+  - [Microsoft Virtual Academy Introduction to jQuery video](https://www.youtube.com/watch?v=khvPMh5Xfks)
 
 ## Homework
  - 
