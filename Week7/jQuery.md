@@ -18,3 +18,8 @@
 
 ## Homework
  - 
+
+## In class project
+- [VegOut Spring2017 CLE](https://github.com/WeCanCodeIT/VegOut-Spring2017-CLE)
+- [VegOut Walkthrough](https://docs.google.com/presentation/d/19iQJb5suokrjx6MpFPHqKw0oyI8E2T4_xbNGezEyuh8/edit#slide=id.p)
+
