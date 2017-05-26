@@ -1,5 +1,5 @@
 # Portfolio
-## Due: 05/30 2017 at 9:30AM
+## Due: 05/30/2017 at 9:30AM
 **Submission** - Please _**email**_ the required documents to Daniel and Jarryd by the submission time. You can email a Microsoft Word document, share a Google Docs file, or email a PDF.
 
 ## Overview
