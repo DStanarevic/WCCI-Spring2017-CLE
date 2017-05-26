@@ -26,9 +26,13 @@ Your project for this weekend is twofold. The first part will consist of you doi
     - [ ] There are a lot of resources on [self documenting code](https://www.google.com/search?q=self+documenting+code&rlz=1C5CHFA_enUS698US698&oq=self+documenting+code&aqs=chrome..69i57j69i59j0l4.3157j0j7&sourceid=chrome&ie=UTF-8) if you're interestd in learning more.
 
 ## Details
-For this weekend's project it's divided up into two parts. The first part will have you work on honing down your pitch for final projects. First begin on collecting as much information as you can. From there work on narrowing it down. Feel free to talk and work with your classmates on narrowing down your ideas if you feel like it may be too large. Also run your idea past a number of different people to get feedback.
+For this weekend's project it's divided up into two parts. 
+
+The first part will have you work on honing down your pitch for final projects. First begin on collecting as much information as you can. From there work on narrowing it down. Feel free to talk and work with your classmates on narrowing down your ideas if you feel like it may be too large. Also run your idea past a number of different people to get feedback.
 
 Once you have your pitch ready put some time into practicing it.  It will just be for your classmates and We Can Code IT staff so don't put too much pressure on yourself.
+
+Submit a summary page of your notes.
 
 --
 
