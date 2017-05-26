@@ -1,6 +1,6 @@
 # Portfolio
 ## Due: 05/30 2017 at 9:30AM
-### Submission - Please **email** the required documents to Daniel and Jarryd by the submission time. You can email a Microsoft Word document, share a Google Docs file, or email a PDF.
+**Submission** - Please _**email**_ the required documents to Daniel and Jarryd by the submission time. You can email a Microsoft Word document, share a Google Docs file, or email a PDF.
 
 ## Overview
 Your project for this weekend is twofold. The first part will consist of you doing research for you final project. The second part will have you looking at three(3) of your previous projects and performing a write up on each, describing how you would improve them. 
@@ -36,3 +36,4 @@ For your project review you should aim to have a couple pages of documentation. 
 
 ## Hints
 Have fun!
+Do some research on different programming practices. Try searhcing for SOLID, Clean Code and other methodologies.
